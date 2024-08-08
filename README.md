@@ -1,5 +1,7 @@
 # FastPHP Framework 🚀
 
+![My Logo](https://github.com/yyantzee/FastPHP-Framework/blob/main/public/assets/logo.png?raw=true)
+
 FastPHP adalah framework PHP yang dirancang untuk memungkinkan pengembangan web yang **mudah**, **ringan**, dan **cepat**. 🚀 Dengan FastPHP, Anda dapat membangun aplikasi web dengan efisien tanpa komplikasi yang tidak perlu.
 
 ## Fitur
