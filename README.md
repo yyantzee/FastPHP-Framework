@@ -62,4 +62,4 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan b
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah MIT License.
+Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/license/MIT).
