@@ -1,0 +1,20 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# PHP specific
+*.php~ # Backup files
+vendor/
+
+# Build directories
+/public/css/
+public/js/
+
+# Environment variables
+.env
