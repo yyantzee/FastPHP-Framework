@@ -56,10 +56,10 @@ Ikuti langkah-langkah berikut untuk memulai dengan FastPHP:
 /package.json   # NPM dependencies
 /tailwind.config.js # Tailwind CSS configuration
 
-##Kontribusi
+## Kontribusi
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan buat pull request dengan perubahan Anda. Kami akan dengan senang hati meninjau dan menggabungkan kontribusi Anda.
 
-##Lisensi
+## Lisensi
 
 Proyek ini dilisensikan di bawah MIT License.
