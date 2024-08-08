@@ -1,6 +1,6 @@
 # FastPHP Framework 🚀
 
-FastPHP adalah framework PHP yang dirancang untuk memungkinkan pengembangan web yang **cepat**, **mudah**, dan **ringan**. 🚀 Dengan FastPHP, Anda dapat membangun aplikasi web dengan efisien tanpa komplikasi yang tidak perlu.
+FastPHP adalah framework PHP yang dirancang untuk memungkinkan pengembangan web yang **mudah**, **ringan**, dan **cepat**. 🚀 Dengan FastPHP, Anda dapat membangun aplikasi web dengan efisien tanpa komplikasi yang tidak perlu.
 
 ## Fitur
 
@@ -19,7 +19,7 @@ FastPHP adalah framework PHP yang dirancang untuk memungkinkan pengembangan web 
 Ikuti langkah-langkah berikut untuk memulai dengan FastPHP:
 
 1. **Clone repositori**:
-   git clone https://github.com/username/fastphp.git
+   git clone https://github.com/yyantzee/FastPHP-Framework
 
 
 2. **Install dependensi PHP dengan Composer**:
