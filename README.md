@@ -36,7 +36,7 @@ Ikuti langkah-langkah berikut untuk memulai dengan FastPHP:
    php -S localhost:8000 -t public atau bisa dengan MAMP/XAMPP/DLL
 
 2. **Menjalankan Tailwind**:
-    npx tailwindcss -i ./src/css/tailwind.css -o ./public/css/styles.css --watch
+    npx tailwindcss -i ./public/css/tailwind.css -o ./public/css/styles.css --watch
 
 ## Struktur Projek
 
