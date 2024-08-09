@@ -12,9 +12,5 @@ Thumbs.db
 *.php~ # Backup files
 vendor/
 
-# Build directories
-/public/css/
-public/js/
-
 # Environment variables
 .env
